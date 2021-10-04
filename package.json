@@ -1,0 +1,28 @@
+{
+  "name": "bash-get-quote",
+  "version": "1.0.0",
+  "description": "This package shows wise quotes in your terminal",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGLara/bash-quotes.git"
+  },
+  "keywords": [
+    "bash",
+    "quotes",
+    "terminal"
+  ],
+  "author": "Steven Lara <steven.carcamo2019adoc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SGLara/bash-quotes/issues"
+  },
+  "homepage": "https://github.com/SGLara/bash-quotes#readme",
+  "bin": {
+    "get-quote": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
