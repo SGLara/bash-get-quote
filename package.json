@@ -1,6 +1,6 @@
 {
   "name": "bash-get-quote",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package shows wise quotes in your terminal",
   "main": "src/index.js",
   "scripts": {
