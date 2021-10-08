@@ -78,6 +78,10 @@ const quotes = [
     {
         "quote": "A lie can travel half way around the world while the truth is putting on its shoes.",
         "author": "Mark Twain"
+    },
+    {
+        "quote": "We are what we do, day by day. So excellence is not an act but a habit.",
+        "author": "Aristóteles"
     }
 ];
 
